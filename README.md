@@ -10,19 +10,19 @@
 
 
 
-<img src= "instagram/img/instagram1.png"> 
+<img src= "Instagram/img/instagram1.png"> 
 
 
 
 ​	Aqui uma redução de aproximadamente 50% do tamanho de tela. Note que a imagem do celular a direita se tornou menor.
 
-<img src= "instagram/img/instagram2.png">
+<img src= "Instagram/img/instagram2.png">
 
 
 
 ​	E por fim, com redução máxima, semelhante a uma tela de celular, onde a imagem do celular que estava a direita desaparece por completo, já que em uma tela melhor o usuário não quer ficar 'scrollando' e sim digitar apenas o que de fato interessa.
 
-<img src= "instagram/img/instagram3.png">
+<img src= "Instagram/img/instagram3.png">
 
 
 
